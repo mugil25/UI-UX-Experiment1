@@ -12,6 +12,6 @@ To explore the Hands-on UI/UX Experiments
 4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
 
 ## Output:
-
+https://github.com/mugil25/UI-UX-Experiment1/blob/main/uiux1.pdf
 ## Result:
 the aim is completed and verified
